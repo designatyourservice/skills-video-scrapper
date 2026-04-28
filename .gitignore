@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Vídeos de teste e saídas locais
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+roteiro.md
+saida/
